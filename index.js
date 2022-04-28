@@ -11,7 +11,7 @@ dotenv.config()
 const PORT = process.env.PORT || 4001
 
 app.get('/', (req, res) => {
-	res.send("Welcome to Day 34's Task")
+	res.send(rooms)
 })
 
 let bookedRooms = []
