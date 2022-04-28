@@ -1,4 +1,7 @@
-Post Man Doc
+Postman deployed Doc
+https://documenter.getpostman.com/view/17858281/UyrEhaZX
+
+Postman Localhost Doc
 https://documenter.getpostman.com/view/17858281/UyrEhaQm
 
 Deployed URL:
